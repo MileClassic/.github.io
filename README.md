@@ -1,4 +1,4 @@
-# .github.io
+# MileClassic.github.io
 name: "MileClassic-website"
 navbar:
   title: "The Monument Mile Classic website"
